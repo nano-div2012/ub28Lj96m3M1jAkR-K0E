@@ -1,6 +1,16 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "ZIfiss",
+  "packageName": "com.web2apk.zifiss8xnb",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "audio",
+    "location",
+    "file_manager",
+    "bluetooth",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
